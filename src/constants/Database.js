@@ -1,0 +1,1 @@
+export const URL_API = 'https://dapp45120-default-rtdb.firebaseio.com/'
